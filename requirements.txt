@@ -1,0 +1,29 @@
+# Healthcare AI Assistant — Python dependencies
+# Generated from pyproject.toml for assignment compliance.
+# For development, use: uv sync
+# For Docker, dependencies are installed via pyproject.toml + uv.lock
+
+# API framework
+fastapi>=0.115
+uvicorn[standard]>=0.30
+
+# LangChain (prompt templates + OpenAI-compatible client)
+langchain>=0.3
+langchain-openai>=0.2
+langchain-text-splitters>=0.3
+
+# Vector database
+weaviate-client>=4.9
+
+# Embeddings + reranking (BGE-M3 + bge-reranker-base)
+sentence-transformers>=3.0
+
+# Structured data
+pandas>=2.0
+
+# Async HTTP (Ollama model pull + health checks + Gemini fallback)
+httpx>=0.27
+
+# Configuration
+pydantic-settings>=2.5
+python-dotenv>=1.0
