@@ -1,0 +1,96 @@
+INSURANCE ELIGIBILITY FAQ
+==========================
+Northridge Medical Center — Billing and Insurance Services
+
+GENERAL COVERAGE QUESTIONS
+---------------------------
+
+Q: What insurance plans does Northridge Medical Center accept?
+A: We accept most major commercial insurance plans, Medicare, Medicaid, and CHIP.
+   A current list of accepted insurers is available at billing@northridgemedical.example
+   or by calling (555) 700-2000. Always verify your specific plan directly with us
+   before your appointment, as plan acceptance can change.
+
+Q: How do I find out if my specific plan is in-network?
+A: Call the Member Services number on the back of your insurance card and ask whether
+   Northridge Medical Center (NPI: 1234567890) is in-network for your plan. You can
+   also ask our billing team at (555) 700-2000 to perform an eligibility check.
+
+Q: What is a copay, and when is it due?
+A: A copay is a fixed dollar amount you pay for a covered service at the time of
+   the visit (e.g., $20 for a primary care visit, $50 for a specialist). Copays are
+   due at check-in and are listed on your insurance card.
+
+Q: What is a deductible?
+A: A deductible is the amount you pay out-of-pocket for covered services before your
+   insurance begins to pay. For example, if your deductible is $1,500, you pay the
+   first $1,500 of covered services each plan year; after that, your insurer shares
+   the cost. Preventive services (annual physicals, immunizations) are often covered
+   before the deductible is met — check your plan documents.
+
+Q: What is coinsurance?
+A: Coinsurance is your share of the cost after meeting your deductible, expressed as
+   a percentage. For example, with 20% coinsurance, you pay 20% of the allowed amount
+   and your insurer pays 80%.
+
+Q: What is an out-of-pocket maximum?
+A: This is the most you will pay in a plan year for covered services. Once you reach
+   this amount, your insurance pays 100% for covered services for the rest of the year.
+   This does not include premiums or non-covered services.
+
+PRIOR AUTHORIZATION
+-------------------
+
+Q: What services require prior authorization?
+A: Many specialist visits, diagnostic imaging (MRI, CT scans), elective procedures,
+   durable medical equipment, and certain prescription medications require prior
+   authorization from your insurer before the service is provided.
+
+Q: Who is responsible for obtaining prior authorization?
+A: Our clinic obtains prior authorization on your behalf for services we order.
+   However, you are ultimately responsible for ensuring authorization is obtained.
+   Always verify authorization before a scheduled procedure.
+
+Q: What happens if I receive a service without prior authorization?
+A: Your insurer may deny the claim, leaving you responsible for the full cost.
+   If authorization is denied, you have the right to appeal. Contact our billing
+   team within 10 business days of a denial notice.
+
+Q: How long does prior authorization take?
+A: Routine requests: 3–5 business days. Urgent/urgent requests: 24–72 hours.
+   Emergency services are covered without prior authorization.
+
+BILLING AND CLAIMS
+------------------
+
+Q: When will I receive a bill?
+A: After your insurer processes the claim (typically 30–45 days after your visit),
+   you will receive an Explanation of Benefits (EOB) from your insurer and a
+   statement from us showing your balance due.
+
+Q: What if I cannot afford my bill?
+A: We offer payment plans (0% interest, up to 12 months) and financial assistance
+   programs for qualifying patients. Call our Financial Counseling team at
+   (555) 700-3000. Sliding-scale fee assistance is available for uninsured patients.
+
+Q: How do I dispute a charge?
+A: Review your EOB from your insurer and compare it to our bill. If you believe
+   there is an error, call (555) 700-2000 within 90 days of the billing date.
+   Provide your account number, the date of service, and a description of the dispute.
+
+UNINSURED PATIENTS
+------------------
+
+Q: What options are available if I have no insurance?
+A: We provide care to all patients regardless of ability to pay.
+   - Self-pay discount: A 30% discount is automatically applied to uninsured patients.
+   - Charity care: Patients at or below 200% of the federal poverty level may qualify
+     for free or reduced-cost care. Contact Financial Counseling: (555) 700-3000.
+   - Payment plans: Flexible monthly payment options available.
+   - Marketplace enrollment assistance: We can connect you with a certified enrollment
+     counselor at no charge.
+
+CONTACT
+-------
+Billing & Insurance: (555) 700-2000 | billing@northridgemedical.example
+Financial Counseling: (555) 700-3000 | Monday–Friday 8:00 AM – 5:00 PM

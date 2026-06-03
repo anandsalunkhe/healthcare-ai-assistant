@@ -1,0 +1,87 @@
+APPOINTMENT SCHEDULING POLICY
+==============================
+Northridge Medical Center — Patient Access Services
+
+SCHEDULING AN APPOINTMENT
+--------------------------
+New and established patients may schedule appointments through any of the following:
+
+  1. Online Patient Portal: portal.northridgemedical.example
+     - Available 24/7; fastest method for non-urgent scheduling.
+     - Create an account with your date of birth and medical record number.
+
+  2. Phone: Call (555) 800-1234, Monday–Friday 7:00 AM – 6:00 PM.
+     - After-hours urgent care line: (555) 800-9911 (24/7).
+
+  3. In-Person: Front desk at any of our three clinic locations.
+
+  4. Mobile App: Download "NorthridgeCare" from the App Store or Google Play.
+
+APPOINTMENT TYPES
+-----------------
+- ROUTINE / PREVENTIVE: Annual physicals, wellness exams, immunizations.
+  Schedule at least 2 weeks in advance.
+
+- FOLLOW-UP: Post-hospitalization or post-procedure check-ins.
+  Schedule within 7–14 days of discharge; call (555) 800-1234 if not contacted.
+
+- URGENT (SAME-DAY / NEXT-DAY): Acute illness, minor injury, sudden worsening of
+  a chronic condition. Call by 8:30 AM for same-day availability; slots are limited.
+
+- TELEHEALTH: Video consultations available for eligible conditions.
+  See Telehealth Policy document for details.
+
+- SPECIALIST REFERRALS: Your primary care provider will coordinate specialist
+  appointments. Expect a referral authorization within 2–5 business days.
+
+INSURANCE VERIFICATION
+-----------------------
+- Please provide your current insurance card and a government-issued photo ID at
+  every appointment.
+- Insurance eligibility is verified at least 24 hours before your appointment.
+- If your insurance has changed, notify us at least 48 hours in advance to avoid
+  billing issues.
+- Copays and coinsurance are due at time of service.
+
+CANCELLATION AND NO-SHOW POLICY
+---------------------------------
+Cancellations:
+- Please cancel at least 24 hours before your scheduled appointment.
+- To cancel: use the patient portal, call (555) 800-1234, or use the mobile app.
+- Late cancellations (less than 24 hours) may incur a $25 administrative fee.
+
+No-Shows:
+- A no-show fee of $40 may be charged for missed appointments without prior notice.
+- Three or more no-shows within a 12-month period may result in discharge from the
+  practice (patients will be given 30 days' notice and assistance finding new care).
+
+Emergency Exceptions:
+- Fees are waived for documented medical emergencies or natural disasters.
+- Contact our billing department within 30 days to request a waiver.
+
+ARRIVAL INSTRUCTIONS
+--------------------
+- Arrive 15 minutes early for new patient appointments to complete paperwork.
+- Arrive 10 minutes early for established patient appointments.
+- Late arrival (more than 15 minutes) may result in rescheduling to protect other
+  patients' appointment times.
+- Parking is available in the Main Garage (validated for 3 hours with appointment).
+
+MINORS AND GUARDIANSHIP
+-----------------------
+- Patients under 18 must be accompanied by a parent or legal guardian at all visits,
+  unless an Unaccompanied Minor Consent Form is on file.
+- Legal guardians must present documentation at the first visit.
+
+PATIENT RIGHTS DURING SCHEDULING
+----------------------------------
+- You have the right to choose your preferred provider subject to availability.
+- You have the right to request a same-gender provider when clinically appropriate.
+- Language interpretation services are available at no charge — request when scheduling.
+- Accessible appointment times and accommodations for disabilities are available
+  upon request.
+
+CONTACT
+-------
+Scheduling Team: (555) 800-1234 | scheduling@northridgemedical.example
+Patient Portal:  portal.northridgemedical.example

@@ -1,0 +1,109 @@
+HIPAA PRIVACY GUIDELINES — PATIENT RIGHTS AND PRIVACY PRACTICES
+================================================================
+Northridge Medical Center — Notice of Privacy Practices (NPP)
+Effective Date: January 1, 2024 | Revised: March 1, 2025
+
+This notice describes how medical information about you may be used and disclosed,
+and how you can get access to this information. Please review it carefully.
+
+YOUR RIGHTS AS A PATIENT
+------------------------
+
+1. RIGHT TO ACCESS YOUR MEDICAL RECORDS
+   You have the right to inspect and obtain a copy of your Protected Health Information
+   (PHI) contained in your designated record set. This includes medical records,
+   billing records, and other records used to make decisions about your care.
+
+   How to request:
+   - Complete a Medical Records Release Form at the front desk or via the patient portal.
+   - Processing time: 30 days for standard requests (one 30-day extension allowed).
+   - Format: We provide records in the format you request (electronic or paper).
+   - Cost: A reasonable, cost-based fee may be charged for paper copies (typically
+     $0.50/page). Electronic copies provided at no additional charge when feasible.
+   - We may deny access in limited circumstances (e.g., records compiled for legal
+     proceedings). You may request a review of any denial.
+
+2. RIGHT TO AMEND YOUR RECORDS
+   If you believe information in your record is incorrect or incomplete, you may
+   request an amendment. Submit a written request explaining the amendment needed.
+   We will respond within 60 days. We may deny the request if the information was
+   not created by us, or if we determine the records are accurate and complete.
+
+3. RIGHT TO AN ACCOUNTING OF DISCLOSURES
+   You may request a list of disclosures of your PHI made by our organization in
+   the past 6 years (or since April 14, 2003, whichever is later), except for
+   disclosures made for treatment, payment, healthcare operations, or pursuant to
+   your authorization. One free accounting per year; subsequent requests: $10 fee.
+
+4. RIGHT TO REQUEST RESTRICTIONS ON USE AND DISCLOSURE
+   You may request restrictions on how we use or disclose your PHI for treatment,
+   payment, or operations. We are NOT required to agree to all restrictions, but
+   we MUST agree if you request that we not disclose your PHI to a health plan for
+   a service you paid for in full out-of-pocket.
+
+5. RIGHT TO CONFIDENTIAL COMMUNICATIONS
+   You may request that we communicate with you by alternative means or at an
+   alternative location (e.g., call your work phone instead of your home phone).
+   We will accommodate all reasonable requests.
+
+6. RIGHT TO RECEIVE A PAPER COPY OF THIS NOTICE
+   You may request a paper copy of this Notice at any time, even if you agreed to
+   receive it electronically.
+
+7. RIGHT TO RECEIVE NOTIFICATION OF BREACH
+   You have the right to receive notification if your unsecured PHI is breached.
+   We will notify you no later than 60 days after discovery of a breach.
+
+HOW WE USE AND DISCLOSE YOUR HEALTH INFORMATION
+------------------------------------------------
+
+PERMITTED WITHOUT YOUR AUTHORIZATION:
+- Treatment: Sharing information with physicians, nurses, and other providers
+  involved in your care.
+- Payment: Submitting claims to your insurance company and collecting payment.
+- Healthcare Operations: Quality assessment, training, auditing, and administrative
+  functions necessary to run our organization.
+- As Required by Law: Public health reporting, abuse/neglect reporting, court orders.
+- Serious Threats: Disclosures to prevent a serious threat to health or safety.
+- Research: De-identified data or under an approved Institutional Review Board (IRB)
+  protocol with appropriate safeguards.
+
+REQUIRES YOUR WRITTEN AUTHORIZATION:
+- Marketing communications
+- Sale of PHI
+- Most uses of psychotherapy notes
+- Any other use not described in this Notice
+
+PROTECTING YOUR INFORMATION
+----------------------------
+We protect your PHI through:
+- Electronic security: Encrypted databases, secure servers, access controls,
+  audit logs, and regular security assessments.
+- Physical safeguards: Locked file rooms, badge-access areas, shredding of paper records.
+- Administrative safeguards: HIPAA training for all staff, workforce sanctions policy,
+  Business Associate Agreements (BAAs) with all vendors who access PHI.
+
+HIPAA MINIMUM NECESSARY STANDARD
+----------------------------------
+We make reasonable efforts to limit the use and disclosure of PHI to the minimum
+necessary to accomplish the intended purpose. Staff access is role-based and logged.
+
+FILING A COMPLAINT
+------------------
+If you believe your privacy rights have been violated, you may file a complaint:
+
+  Northridge Medical Center Privacy Officer:
+  Phone: (555) 100-7700
+  Email: privacy@northridgemedical.example
+  Address: 1 Healthcare Way, Suite 100, Northridge, CA 91324
+
+  U.S. Department of Health & Human Services, Office for Civil Rights:
+  Website: https://www.hhs.gov/hipaa/filing-a-complaint
+  Phone: 1-800-368-1019
+
+You will NOT be retaliated against for filing a complaint.
+
+CONTACT THE PRIVACY OFFICER
+-----------------------------
+Privacy Officer: (555) 100-7700 | privacy@northridgemedical.example
+Available: Monday–Friday, 8:00 AM – 5:00 PM PST

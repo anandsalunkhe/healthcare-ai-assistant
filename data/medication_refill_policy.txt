@@ -1,0 +1,80 @@
+MEDICATION REFILL POLICY
+========================
+Northridge Medical Center — Pharmacy and Prescribing Services
+
+REQUESTING A REFILL
+--------------------
+We offer several convenient ways to request prescription refills:
+
+  1. Patient Portal (PREFERRED): portal.northridgemedical.example
+     - Submit a refill request 7–10 days before you run out.
+     - You will receive a portal message when the prescription is sent to your pharmacy.
+
+  2. Pharmacy Auto-Refill: Contact your pharmacy directly. Many pharmacies offer
+     automatic refill programs. The pharmacy will contact us for authorization.
+
+  3. Phone: Call (555) 500-2200 (Refill Request Line), Monday–Friday 8 AM–5 PM.
+     - Leave your name, date of birth, medication name, pharmacy name and phone.
+     - Allow 48–72 business hours for processing (not including weekends/holidays).
+
+  4. Mobile App: Use the NorthridgeCare app to submit refill requests 24/7.
+
+PROCESSING TIMEFRAMES
+----------------------
+- Routine refills: 48–72 business hours
+- Controlled substances: Require an in-person or telehealth visit; see below.
+- Specialty medications: May require prior authorization (5–10 business days).
+- Do NOT wait until you run out of medication — always request 7–10 days early.
+
+IMPORTANT: We cannot process same-day urgent refill requests through the refill line.
+If you have run out of a critical medication (e.g., insulin, blood pressure medication),
+call the main clinic line at (555) 500-0000 immediately for same-day assistance.
+
+CONTROLLED SUBSTANCE POLICY
+----------------------------
+In compliance with federal DEA regulations and California state law:
+
+- Controlled substances (Schedule II–V) require a valid current prescription.
+- Schedule II medications (e.g., Adderall, oxycodone) CANNOT be called in or faxed;
+  they require a written or electronic prescription (EPCS) from your provider.
+- An in-person or telehealth visit is REQUIRED for refills of Schedule II medications.
+- Schedule III–V medications may be called in for up to a 6-month supply, provided
+  a current assessment has been completed within the past 12 months.
+- We do NOT prescribe opioids for new patients without a comprehensive evaluation.
+- Refills may be denied if a patient misses follow-up visits or does not comply with
+  monitoring requirements (e.g., urine drug screens for opioid agreements).
+
+EARLY REFILL RESTRICTIONS
+--------------------------
+- Insurance plans typically apply a "too early" fill restriction (e.g., no refill until
+  75% of the days' supply has elapsed).
+- Patients requesting early refills without documented medical reason (e.g., travel,
+  dose change) will be directed to contact their insurer or pay out-of-pocket.
+- Lost or stolen medications: Report to law enforcement first. A police report number
+  is required for controlled substances before a replacement will be considered.
+
+MEDICATION ASSISTANCE PROGRAMS
+--------------------------------
+If you cannot afford your medications, we can help:
+
+- Generic substitution: Ask your pharmacist or provider about lower-cost generics.
+- Patient Assistance Programs (PAPs): Many manufacturers provide free or discounted
+  brand-name medications to qualifying patients. Contact our Social Work team:
+  (555) 500-5500.
+- 340B Drug Pricing Program: Eligible patients may qualify for significant prescription
+  discounts through our 340B program. Ask our pharmacy team at (555) 500-4400.
+- GoodRx and similar discount cards: Can reduce out-of-pocket costs at most pharmacies.
+
+MEDICATION CHANGES AND THERAPEUTIC SUBSTITUTIONS
+--------------------------------------------------
+- If your insurance does not cover a prescribed medication, your pharmacist will
+  contact us for a therapeutic substitution or prior authorization.
+- Do NOT switch medications or stop taking a medication without consulting your provider.
+- Report any adverse reactions or side effects to your provider immediately.
+
+PHARMACY CONTACT
+-----------------
+Refill Request Line: (555) 500-2200
+Clinic Pharmacy:     (555) 500-4400
+Social Work (Rx Assistance): (555) 500-5500
+After-Hours Urgent Rx: (555) 500-0000 (main line, 24/7 nurse line)

@@ -1,0 +1,96 @@
+TELEHEALTH GUIDELINES
+======================
+Northridge Medical Center — Virtual Care Services
+
+WHAT IS TELEHEALTH?
+--------------------
+Telehealth (also called telemedicine or virtual care) allows you to have a medical
+appointment with your provider using video conferencing or telephone — from your
+home, office, or any private location. Northridge Medical Center uses a secure,
+HIPAA-compliant video platform integrated with your patient portal.
+
+ELIGIBLE CONDITIONS FOR TELEHEALTH
+------------------------------------
+Telehealth is appropriate for many common conditions. Examples include:
+
+  - Cold, flu, or mild respiratory symptoms
+  - Urinary tract infection (UTI) — evaluation and prescription
+  - Allergies and rashes (with photo submission via portal)
+  - Mental health consultations: anxiety, depression, medication follow-up
+  - Medication refills and management for stable chronic conditions (e.g., hypertension,
+    diabetes, hypothyroidism — when labs are current)
+  - Post-procedure follow-up when physical exam is not required
+  - Care coordination, referrals, and care plan reviews
+  - Nutrition counseling and health coaching
+
+CONDITIONS REQUIRING IN-PERSON VISITS
+---------------------------------------
+Telehealth is NOT appropriate for:
+  - Chest pain, shortness of breath, or suspected heart attack → Call 911
+  - Suspected fractures, deep lacerations, or injuries requiring imaging
+  - Physical examinations requiring auscultation or palpation
+  - New patients requiring a comprehensive baseline physical
+  - Controlled substance prescriptions (Schedule II) — see Medication Refill Policy
+  - Pediatric well-child visits requiring growth measurements and vaccinations
+  - Procedures, injections, or specimen collection
+
+HOW TO CONNECT — STEP BY STEP
+-------------------------------
+1. SCHEDULE: Book a telehealth appointment via the patient portal or call (555) 800-1234.
+   Select "Virtual Visit" as the appointment type.
+
+2. CONFIRM: You will receive an email and/or text with a secure video link 24 hours
+   and 1 hour before your appointment.
+
+3. PREPARE — 15 minutes before your visit:
+   - Find a private, quiet, well-lit space.
+   - Have your medication bottles on hand.
+   - Make a list of symptoms, questions, and any recent test results.
+   - Test your camera and microphone using the "Test My Device" link in the email.
+
+4. JOIN: Click the secure link in your email or log into the patient portal and click
+   "Join Video Visit." No app download required; works in any modern web browser.
+   Supported browsers: Chrome 80+, Firefox 75+, Safari 13+, Edge 80+.
+
+5. WAIT ROOM: You will enter a virtual waiting room. Your provider will join within
+   the appointment window.
+
+TECHNOLOGY REQUIREMENTS
+------------------------
+- Device: Computer, laptop, tablet, or smartphone
+- Camera and microphone (built-in or external)
+- Internet: Broadband (minimum 1.5 Mbps upload/download) or strong 4G/LTE signal
+- Browser: Up-to-date Chrome, Firefox, Safari, or Edge
+- If using a smartphone: Ensure camera permissions are enabled for the browser.
+
+TROUBLESHOOTING TIPS
+---------------------
+- Camera not working? Check browser permissions: Settings → Privacy → Camera.
+- Audio issues? Try using headphones to reduce echo.
+- Poor connection? Move closer to your router or switch to a wired connection.
+- Can't join the visit? Call our telehealth support line: (555) 800-8800.
+  Providers can convert the visit to a phone call if technical issues persist.
+
+PRIVACY AND SECURITY
+---------------------
+- All video visits are conducted through an end-to-end encrypted platform (AES-256).
+- Visits are NOT recorded unless you provide explicit written consent.
+- Do not use public Wi-Fi (coffee shops, airports) for telehealth visits.
+- Ensure no other individuals (except caregivers or interpreters you invite) are
+  present during your visit without your provider's knowledge.
+- Providers will verify your identity at the start of every visit.
+
+BILLING AND INSURANCE
+----------------------
+- Telehealth visits are billed the same as in-person visits for most services.
+- Many insurance plans, including Medicare and Medicaid, cover telehealth visits.
+- Copays for telehealth may differ from in-person visits — verify with your insurer.
+- You will receive a summary visit note and any new prescriptions via the portal
+  within 24 hours of your visit.
+
+TELEHEALTH SUPPORT
+------------------
+Scheduling:          (555) 800-1234 | portal.northridgemedical.example
+Technical Support:   (555) 800-8800 (available 30 min before first daily appointment
+                     through end of business day)
+After-Hours Advice:  (555) 800-9911 (24/7 nurse advice line)

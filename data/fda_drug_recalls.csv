@@ -1,0 +1,11 @@
+drug_name,manufacturer,recall_reason,recall_date,recall_class
+Metformin Extended Release 500mg,Amneal Pharmaceuticals,Unacceptable levels of N-Nitrosodimethylamine (NDMA) impurity detected above FDA interim limits,2024-01-15,Class II
+Losartan Potassium Tablets 50mg,Torrent Pharmaceuticals,Subpotency — tablets contain below labeled amount of active ingredient; potential loss of blood pressure control,2024-02-20,Class II
+Acetaminophen 500mg Tablets,Major Pharmaceuticals,Microbial contamination (Burkholderia cepacia) detected during stability testing,2024-03-10,Class I
+Amoxicillin Capsules 500mg,Sun Pharmaceutical Industries,Presence of glass particles (foreign matter) found during visual inspection,2024-04-05,Class I
+Lisinopril 10mg Tablets,Aurobindo Pharma,Superpotency — tablets contain above labeled amount of active ingredient; risk of hypotension,2024-05-18,Class II
+Ranitidine Hydrochloride 150mg,Appco Pharma LLC,NDMA impurity levels exceed acceptable daily intake limits under long-term storage conditions,2024-06-22,Class II
+Atorvastatin Calcium 20mg Tablets,Cambrex Charles City,Dissolution failure — tablets do not meet USP dissolution specifications; reduced efficacy possible,2024-07-14,Class III
+Levothyroxine Sodium 100mcg,Jerome Stevens Pharmaceuticals,Subpotency due to inadequate stability; risk of inadequate thyroid hormone replacement in hypothyroid patients,2024-08-30,Class II
+Hydrochlorothiazide 25mg,Zydus Pharmaceuticals,Labeling error — incorrect dosing instructions printed on packaging may lead to overdose,2024-09-12,Class II
+Sertraline HCl 100mg Tablets,Virtus Pharmaceuticals,Cross-contamination with haloperidol during manufacturing; incorrect active ingredient present in some lots,2024-10-07,Class I
